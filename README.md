@@ -21,6 +21,6 @@ Some important observations:
 2. Model can further be fine tuned - different resolutions of images can be tried, different model-architecture altogether can be tried, multiple parameters like epoch, batch-size, optimizers can be optimized. 
 3. Still CNN models doesn’t always look at the appropriate features from images to predict the output. For example to predict pneumonia signs, model does not always just look at lungs to predict the output. Continued work is needed to understand what specific features are being learned by these CNNs. Check this article to find out more - https://medium.com/@jrzech/what-are-radiological-deep-learning-models-actually-learning-f97a546c5b98
 
-**Transfer Learning - Transfer learning is a machine learning method where a model developed for a ceratin task is reused as the starting point for a model on a second task**
+* **Transfer Learning - Transfer learning is a machine learning method where a model developed for a ceratin task is reused as the starting point for a model on a second task**
 
 
