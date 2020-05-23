@@ -1,0 +1,12 @@
+python 3
+
+numpy
+pandas
+opencv-python
+seaborn
+matplotlib
+scikit-image
+scikit-learn
+Pillow
+tensorflow
+Keras
