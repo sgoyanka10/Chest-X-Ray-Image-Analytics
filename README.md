@@ -6,7 +6,7 @@ In this project, I have exploited deep learning to automate detection of ailment
 
     data-set - 6056 images (4290 pneumonia, 1766 normal), link to one of the sources of dataset I have used - https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
     
-    model - Retrained VGG16 model on given dataset.
+    model - Retrained VGG16 model on given dataset, 
     result - F1 score ~ 91, Test accuracy ~ 92
 
 2. ailments-detection-in-chest-xrays-using-transfer-learning.ipynb - Transfer learning to predict the probability of a chest x-ray having signs of multiple ailments (Nodule, Mass, Pneumonia). Used python with Keras to develop the model.
