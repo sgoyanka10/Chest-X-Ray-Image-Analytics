@@ -1,6 +1,6 @@
 ## Chest-X-Ray-Image-Analytics
 
-In this project, I have tried to explore deep learning(transfer learning*) to automate detection of ailments from X-rays. I have trained two models - a binary and a multi-class supervised model.
+In this project, I have explored deep learning(transfer learning*) to automate detection of ailments from X-rays. I have trained two models - a binary and a multi-class supervised model.
 
 1. ***pneumonia-detection-in-chest-xrays-using-transfer-learning.ipynb*** - Transfer learning to predict the probability of a chest x-ray having signs of pneumonia. Used python with Keras to develop the model.
 
